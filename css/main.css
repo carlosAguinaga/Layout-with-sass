@@ -173,6 +173,7 @@ textarea {
   border: 1px solid gray;
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
+  resize: none;
 }
 
 input[type="submit"] {

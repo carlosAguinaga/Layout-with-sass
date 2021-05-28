@@ -2,6 +2,7 @@
 
 :root {
   --primary-color: #007af3;
+  // --primary-color: #bd44a9;
 }
 
 body {
@@ -172,6 +173,7 @@ textarea {
   border-radius: 0.3em;
   border: 1px solid gray;
   box-sizing: border-box;
+  resize: none;
 }
 
 input[type="submit"] {
